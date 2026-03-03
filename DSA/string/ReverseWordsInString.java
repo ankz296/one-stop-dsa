@@ -1,6 +1,6 @@
 package DSA.string;
 
-public class reverseWordsInString {
+public class ReverseWordsInString {
 
     public static String reverseWords(String s) {
         // Step 1: trim spaces

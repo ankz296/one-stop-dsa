@@ -3,7 +3,7 @@ package DSA.hashMap;
 import java.util.HashMap;
 import java.util.Map;
 
-public class randomNote {
+public class RandomNote {
 
     public static void main(String[] args) {
         String randomNote = "aa", magazineNote = "aab";

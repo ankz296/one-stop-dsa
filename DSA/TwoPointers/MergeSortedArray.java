@@ -1,9 +1,8 @@
 package DSA.TwoPointers;
 
-import java.sql.Array;
 import java.util.Arrays;
 
-public class mergeSortedArray {
+public class MergeSortedArray {
 
     public static void merge(int[] nums1, int m, int[] nums2, int n) {
 //        int i = m - 1;      // nums1 last valid index

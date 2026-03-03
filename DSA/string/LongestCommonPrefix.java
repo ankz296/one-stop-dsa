@@ -1,6 +1,6 @@
 package DSA.string;
 
-public class longestCommonPrefix {
+public class LongestCommonPrefix {
 
     public static String longestCommonPrefix(String[] strs) {
         if (strs == null || strs.length == 0) {

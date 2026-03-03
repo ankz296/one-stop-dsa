@@ -1,6 +1,6 @@
 package DSA.string;
 
-public class validPalindrome {
+public class ValidPalindrome {
 
     public static boolean isPalindrome(String s) {
         // we use two pointers here
