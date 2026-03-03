@@ -1,6 +1,6 @@
 package DSA.TwoPointers;
 
-public class minimumSIzeSubArraySum {
+public class MinimumSIzeSubArraySum {
 
     public static void main(String[] args) {
         int[] nums = {2, 3, 1, 2, 4, 3};

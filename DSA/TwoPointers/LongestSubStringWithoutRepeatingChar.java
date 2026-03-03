@@ -3,7 +3,7 @@ package DSA.TwoPointers;
 import java.util.HashSet;
 import java.util.Set;
 
-public class longestSubStringWithoutRepeatingChar {
+public class LongestSubStringWithoutRepeatingChar {
 
     public static void main(String[] args) {
         String s = "abcabcbb";

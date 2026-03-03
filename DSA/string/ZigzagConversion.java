@@ -1,6 +1,6 @@
 package DSA.string;
 
-public class zigzagConversion {
+public class ZigzagConversion {
 
     public static String convert(String s, int numRows) {
         // Edge case: if the zigzag has only one row, the result is the string itself.

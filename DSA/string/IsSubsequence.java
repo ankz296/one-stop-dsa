@@ -1,6 +1,6 @@
 package DSA.string;
 
-public class isSubsequence {
+public class IsSubsequence {
 
     public static boolean isSubsequence(String s, String t) {
         int i = 0, j = 0;

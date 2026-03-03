@@ -3,7 +3,7 @@ package DSA.hashMap;
 import java.util.HashMap;
 import java.util.Map;
 
-public class isomorphicStrings {
+public class IsomorphicStrings {
     public static void main(String[] args) {
         String s = "egg", t = "add";
         System.out.println(isIsomorphic(s, t));
