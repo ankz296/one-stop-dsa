@@ -1,6 +1,6 @@
-//package DSA.TwoPointers;
+package DSA.TwoPointers;
 //
-//public class twoSumnputArrayIsSorted {
+public class TwoSumnputArrayIsSorted {
 //
 //    public static int[] twoSum(int[] numbers, int target) {
 //
@@ -11,4 +11,4 @@
 //        int target = 9;
 //        System.out.println(twoSum(nums,9));
 //    }
-//}
+}
