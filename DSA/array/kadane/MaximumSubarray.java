@@ -18,11 +18,10 @@ public class MaximumSubarray {
             sum += nums[i];
             max = Math.max(max, sum);
             if (sum < 0) {
-                sum = 0;
+                sum = 0; // making 0 because - values always reduce the sum
             }
         }
         return max;
-
     }
 
     static void main(String[] args) {

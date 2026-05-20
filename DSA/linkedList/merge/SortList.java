@@ -12,6 +12,11 @@ public class SortList {
         }
     }
 
+    /**
+     * https://leetcode.com/problems/sort-list/description/
+     * https://algomaster.io/practice/dsa/sort-list?list=am-300
+     * Here we use Claude AI's response
+     */
     public static ListNode sortList(ListNode head) {
         if (head == null || head.next == null) return head;
 
