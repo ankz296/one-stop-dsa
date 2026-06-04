@@ -6,6 +6,7 @@ import java.util.List;
 import java.util.Queue;
 
 public class BinaryTreeZigzagLevelOrder {
+
     static class TreeNode {
         int val;
         TreeNode left, right;
@@ -49,8 +50,6 @@ public class BinaryTreeZigzagLevelOrder {
             result.add(level);
             leftToRight = !leftToRight;
         }
-
-
         return result;
     }
 
